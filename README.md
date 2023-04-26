@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![FireShot Capture 002 - Frontend Mentor - Results summary component - 127.0.0.1](./screenshot.jpg)
+![FireShot Capture 002 - Frontend Mentor - Results summary component - 127.0.0.1](./img/FireShot%20Capture%20002%20-%20Frontend%20Mentor%20-%20Results%20summary%20component%20-%20127.0.0.1.png)
 
 
 
@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/Medido1/Frontend-Mentor-Results-summary-component)
+- Live Site URL: (https://medido1.github.io/Frontend-Mentor-Results-summary-component/)
 
 ## My process
 

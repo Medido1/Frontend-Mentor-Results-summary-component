@@ -25,10 +25,6 @@ Users should be able to:
 
 ![FireShot Capture 002 - Frontend Mentor - Results summary component - 127.0.0.1](./img/FireShot%20Capture%20002%20-%20Frontend%20Mentor%20-%20Results%20summary%20component%20-%20127.0.0.1.png)
 
-
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
 - Solution URL:(https://github.com/Medido1/Frontend-Mentor-Results-summary-component)
